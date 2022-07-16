@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657946972 source:d:\c++\leetode\main.cpp
+	<iostream>
+
+1657962856 source:d:\c++\leetode\average_salary.cpp
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1657962874 source:d:\c++\leetode\average_excluding_min_max_salary.cpp
+	<iostream>
+	<bits/stdc++.h>
+
